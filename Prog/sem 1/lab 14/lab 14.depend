@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1545584881 source:c:\users\grish\desktop\Прогаммирование\lab 14\gifenc.c
+	"gifenc.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<io.h>
+	<unistd.h>
+
+1517064326 c:\users\grish\desktop\Прогаммирование\lab 14\gifenc.h
+	<stdint.h>
+
+1545585094 source:c:\users\grish\desktop\Прогаммирование\lab 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gifenc.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542878680 source:c:\users\grish\desktop\Прогаммирование\lab11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"par.h"
+
+1542878702 c:\users\grish\desktop\Прогаммирование\lab11\par.h
+	<math.h>
+
