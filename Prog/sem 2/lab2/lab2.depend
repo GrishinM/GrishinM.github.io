@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550494124 source:c:\1kurs2sem\proga\lab2\main.cpp
+	<iostream>
+	"fg.h"
+
+1550494124 c:\1kurs2sem\proga\lab2\fg.h
+

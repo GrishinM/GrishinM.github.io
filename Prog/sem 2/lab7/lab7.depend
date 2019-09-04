@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556542454 source:c:\1kurs2sem\proga\lab7\main.cpp
+	<iostream>
+	"matr.h"
+
+1556542454 c:\1kurs2sem\proga\lab7\matr.h
+
+1552947715 source:c:\1kurs2sem\proga\lab7\matr.cpp
+

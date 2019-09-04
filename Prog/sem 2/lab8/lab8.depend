@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556173197 source:c:\1kurs2sem\proga\lab8\main.cpp
+	<iostream>
+	<set>
+	<vector>
+	<list>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556542454 source:c:\1kurs2sem\proga\lab6\main.cpp
+	<iostream>
+	<math.h>
+
