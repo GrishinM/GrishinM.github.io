@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555449045 source:c:\1kurs2sem\algos\lab6\6b\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<queue>
+	<set>
+
