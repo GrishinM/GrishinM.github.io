@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1545583756 source:c:\users\grish\desktop\Алгоритмы\lab5\5b\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<string.h>
-
