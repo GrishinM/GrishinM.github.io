@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1555336480 source:c:\1kurs2sem\proga\lab5\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-	<cmath>
-

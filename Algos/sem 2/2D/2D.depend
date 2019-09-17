@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1552542582 source:c:\1kurs2sem\algos\lab2\2d\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<string.h>
-	<list>
-
